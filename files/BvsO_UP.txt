@@ -1,0 +1,65 @@
+trans_id	blastx_id	blastp_id	Description
+TRINITY_DN100_c0_g2_i1	QZZ63368.1	P04936	hypothetical protein
+TRINITY_DN10413_c0_g1_i11	GBN44109.1	NA	Uncharacterized protein C1494.07, partial
+TRINITY_DN11086_c0_g1_i7	NA	NA	-
+TRINITY_DN11879_c0_g1_i1	UHM27686.1	NA	capsid protein, partial
+TRINITY_DN12343_c0_g1_i2	NA	NA	-
+TRINITY_DN12508_c0_g1_i7	GBM28226.1	NA	hypothetical protein AVEN_181300-1
+TRINITY_DN12730_c0_g1_i3	GBN00013.1	P70255	Nuclear factor 1
+TRINITY_DN1332_c0_g1_i5	KAF8769969.1	Q76MZ1	Cytohesin-1 like protein
+TRINITY_DN13515_c1_g1_i1	KAF8770241.1	NA	hypothetical protein HNY73_017798
+TRINITY_DN13746_c0_g1_i1	GBM19233.1	P21158	C-factor
+TRINITY_DN14185_c0_g1_i1	KAF8786535.1	Q9VGY6	Protein Skeletor like protein
+TRINITY_DN1446_c0_g1_i4	XP_035221434.1	Q91WR8	glutathione peroxidase-like
+TRINITY_DN14757_c0_g1_i1	GBL81316.1	P49326	Dimethylaniline monooxygenase [N-oxide-forming] 5
+TRINITY_DN14833_c0_g1_i8	GBO06779.1	NA	Retrovirus-related Pol polyprotein from transposon 412, partial
+TRINITY_DN14864_c0_g1_i5	GBM65514.1	Q9VUJ0	39S ribosomal protein L39, mitochondrial
+TRINITY_DN1546_c1_g1_i10	GFR30806.1	Q5R6Y2	protein cereblon
+TRINITY_DN17492_c0_g1_i10	GBM92253.1	Q9R0M5	Thiamin pyrophosphokinase 1
+TRINITY_DN1805_c3_g1_i3	NA	NA	-
+TRINITY_DN1805_c3_g1_i4	NA	NA	-
+TRINITY_DN18850_c0_g1_i1	KAF8773983.1	NA	Gastrula zinc finger protein XlCGF8.2DB like protein
+TRINITY_DN19605_c0_g1_i3	GFT95413.1	NA	hypothetical protein NPIL_329531, partial
+TRINITY_DN1971_c0_g1_i3	QVW56852.1	NA	MAG: nonstructural protein
+TRINITY_DN20_c4_g1_i2	GBM52449.1	Q9D772	hypothetical protein AVEN_214540-1
+TRINITY_DN20032_c0_g1_i3	KAF8766904.1	NA	Glutamyl-tRNA(Gln) amidotransferase subunit B like protein
+TRINITY_DN20540_c0_g1_i1	UHK03205.1	NA	RNA helicase
+TRINITY_DN20540_c0_g1_i2	UHK03205.1	NA	RNA helicase
+TRINITY_DN21996_c0_g1_i2	GBM50034.1	P51954	Serine/threonine-protein kinase Nek1
+TRINITY_DN25309_c0_g1_i1	NA	NA	-
+TRINITY_DN2582_c0_g1_i1	GBL73513.1	P97386	DNA ligase 3
+TRINITY_DN2625_c0_g1_i12	GBM44934.1	G5EBQ8	Chitin synthase chs-2
+TRINITY_DN26825_c0_g1_i1	QQM16332.1	Q1KZ59	putative replicase
+TRINITY_DN29746_c0_g1_i1	AWK77930.1	NA	polyprotein, partial
+TRINITY_DN29808_c0_g1_i1	NA	NA	-
+TRINITY_DN30321_c0_g1_i10	GFS64972.1	Q5ZKA2	isoleucine--tRNA ligase, mitochondrial
+TRINITY_DN30321_c0_g1_i10	GFS64972.1	Q8BIJ6	isoleucine--tRNA ligase, mitochondrial
+TRINITY_DN3186_c0_g1_i11	KAF8791446.1	Q70VZ7	2-acylglycerol O-acyltransferase 1 like protein
+TRINITY_DN32456_c0_g1_i1	UHK03209.1	Q91PP5	RNA helicase
+TRINITY_DN3270_c0_g1_i31	NA	NA	-
+TRINITY_DN34236_c0_g1_i1	UHK03228.1	Q9DSN9	RNA helicase
+TRINITY_DN37244_c0_g1_i1	GBM91388.1	P16425	Putative protein in type-1 retrotransposable element R1DM
+TRINITY_DN37760_c0_g1_i1	YP_009140560.1	NA	putative polyprotein
+TRINITY_DN3894_c0_g1_i3	GBM11351.1	A0A182C2Z2	Transmembrane protease serine 9
+TRINITY_DN4_c1_g1_i4	NA	NA	-
+TRINITY_DN4269_c0_g1_i2	GBN55777.1	NA	UDP-N-acetylglucosamine transferase subunit ALG14
+TRINITY_DN4610_c0_g1_i2	KAF8787345.1	NA	RILP-like protein 1 like protein
+TRINITY_DN4748_c1_g1_i1	GBM80480.1	Q9XTL9	Glycogen phosphorylase
+TRINITY_DN4771_c0_g1_i8	GBM03532.1	Q9NRA2	Putative inorganic phosphate cotransporter
+TRINITY_DN4799_c0_g1_i2	GBM33783.1	NA	hypothetical protein AVEN_183041-1
+TRINITY_DN4813_c0_g1_i3	KAF8792024.1	P29674	LIM/homeobox protein Lhx1 like protein
+TRINITY_DN4853_c0_g1_i1	GFT63756.1	NA	hypothetical protein NPIL_246741
+TRINITY_DN5490_c0_g2_i1	NA	NA	-
+TRINITY_DN614_c0_g2_i1	GBN86254.1	NA	hypothetical protein AVEN_107354-1
+TRINITY_DN6509_c0_g1_i6	QQP18685.1	Q27YG9	nonstructural polyprotein
+TRINITY_DN679_c2_g1_i13	KAF8773473.1	Q8N1S5	Zinc transporter ZIP11 like protein
+TRINITY_DN68_c0_g1_i16	KAF8770595.1	NA	Lysozyme 1 like protein
+TRINITY_DN7271_c0_g1_i2	GBM77979.1	P51589	Cytochrome P450 18a1
+TRINITY_DN7534_c0_g1_i6	KAF8795938.1	O88968	RNA helicase aquarius like protein
+TRINITY_DN8026_c0_g1_i11	KAF8768168.1	NA	Protein ABHD11 like protein
+TRINITY_DN8269_c0_g1_i5	GBM50122.1	NA	hypothetical protein AVEN_185506-1
+TRINITY_DN8875_c0_g1_i1	GBO32872.1	P03075	Large T antigen
+TRINITY_DN924_c13_g1_i5	GBO04621.1	NA	hypothetical protein AVEN_186549-1
+TRINITY_DN9519_c0_g1_i12	GFS67400.1	Q27128	bifunctional 3'-phosphoadenosine 5'-phosphosulfate synthase
+TRINITY_DN9519_c0_g1_i12	GFS67400.1	O95340	bifunctional 3'-phosphoadenosine 5'-phosphosulfate synthase
+TRINITY_DN9757_c2_g1_i2	KAF8765123.1	NA	U-scoloptoxin(01)-Cw1a like protein
