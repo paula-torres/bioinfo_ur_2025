@@ -1,0 +1,17 @@
+##Descargar usando curl
+curl "https://raw.githubusercontent.com/vsbuffalo/bds-files/master/chapter-07-unix-data-tools/Mus_musculus.GRCm38.75_chr1.bed" > Mus_musculus.GRCm38.75_chr1.bed
+## obtener datos de bytes
+wc -c Mus_musculus.GRCm38.75_chr1.bed
+##contar lineas y columnas
+awk 'END{print NR}' gbif_ocurrences.csv
+wc -l gbif_ocurrences.csv
+awk -F "," '{print NF; exit}' gbif_ocurrences.csv
+##Cortar la columna de especies en el archivo gbif_ocurrences.csv
+cut -f 10 gbif_ocurrences.csv > species_gbif_ocurrences.txt
+## cortar varias columnas
+cut -f 10,17,18,15 gbif_ocurrences.csv > lat_lon_gbif_ocurrences.txt
+##utilizar grep
+grep "SEQ05" gasteracantha.fasta
+cut -f  17,18 gbif_ocurrences.csv | grep "19.794"
+## Descargar zip con curl
+curl -O -J -L https://github.com/paula-torres/bioinformatica_ur/raw/main/files/lista_fastas.zip > lista_fastas.zip

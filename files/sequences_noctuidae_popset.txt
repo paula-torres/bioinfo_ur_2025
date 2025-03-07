@@ -1,0 +1,571 @@
+LOCUS       MK860943                 693 bp    DNA     linear   INV 23-NOV-2019
+DEFINITION  Spodoptera exigua isolate MA-1 cytochrome oxidase subunit 1 (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   MK860943
+VERSION     MK860943.1
+KEYWORDS    .
+SOURCE      mitochondrion Spodoptera exigua (beet armyworm)
+  ORGANISM  Spodoptera exigua
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Lepidoptera; Glossata;
+            Ditrysia; Noctuoidea; Noctuidae; Amphipyrinae; Spodoptera.
+REFERENCE   1  (bases 1 to 693)
+  AUTHORS   Deng,Z. and Liu,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2019) Plant Quarantine Laboratory of Technical
+            Center, Kunming Customs District, No. 359 Guangfu Road, Kunming,
+            Yunnan 650228, P.R. China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..693
+                     /organism="Spodoptera exigua"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MA-1"
+                     /db_xref="taxon:7107"
+                     /country="China: Mangshi, Yunnan"
+                     /collection_date="18-Apr-2019"
+                     /collected_by="Zhongshan Liu"
+     gene            <1..>693
+                     /gene="COI"
+     CDS             <1..>693
+                     /gene="COI"
+                     /codon_start=3
+                     /transl_table=5
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="QGK85655.1"
+                     /translation="NHKDIGTLYFIFGIWAGMVGTSLSLLIRAELGTPGSLIGDDQIY
+                     NTIVTAHAFIMIFFMVMPIMIGGFGNWLVPLMLGAPDMAFPRMNNMSFWLLPPSLTLL
+                     ISSSIVENGAGTGWTVYPPLSSNIAHGGSSVDLAIFSLHLAGISSILGAINFITTIIN
+                     MRLNNLSFDQMPLFVWAVGITAFLLLLSLPVLAGAITMLLTDRNLNTSFFDPAGGGDP
+                     ILYQHLFWFFGH"
+ORIGIN      
+        1 ccaatcataa agatattgga acattatatt ttatttttgg aatttgagct ggaatagttg
+       61 gaacttcatt aagattatta attcgagctg aattaggaac tccaggatct ttaattggag
+      121 atgatcaaat ttataatact attgtaacag cacatgcttt tattataatt ttctttatag
+      181 taatacctat tataatcgga ggatttggaa attgacttgt cccattaata ttaggagccc
+      241 cagatatagc tttcccacga ataaataata taagtttttg attattacca ccttctttaa
+      301 ctttattaat ttcaagaaga attgtagaaa atggagcagg aactggatga acagtttacc
+      361 ccccactctc ctctaatatt gcccacggtg gaagatctgt agatttagct attttttctt
+      421 tacatttagc tggaatttct tctattttag gagctattaa ttttattact actattatta
+      481 atatacgatt aaataattta tcatttgatc aaataccttt atttgtttga gctgtaggaa
+      541 ttactgcttt tttattatta ttatcactac ctgttttagc aggagctatt actatattac
+      601 ttacagaccg aaatttaaat acatcattct ttgatccagc tggaggaggt gatcctattc
+      661 tttatcaaca tttattttga ttttttggac atc
+//
+LOCUS       MK860944                 693 bp    DNA     linear   INV 23-NOV-2019
+DEFINITION  Spodoptera exigua isolate MA-2 cytochrome oxidase subunit 1 (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   MK860944
+VERSION     MK860944.1
+KEYWORDS    .
+SOURCE      mitochondrion Spodoptera exigua (beet armyworm)
+  ORGANISM  Spodoptera exigua
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Lepidoptera; Glossata;
+            Ditrysia; Noctuoidea; Noctuidae; Amphipyrinae; Spodoptera.
+REFERENCE   1  (bases 1 to 693)
+  AUTHORS   Deng,Z. and Liu,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2019) Plant Quarantine Laboratory of Technical
+            Center, Kunming Customs District, No. 359 Guangfu Road, Kunming,
+            Yunnan 650228, P.R. China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..693
+                     /organism="Spodoptera exigua"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MA-2"
+                     /db_xref="taxon:7107"
+                     /country="China: Mangshi, Yunnan"
+                     /collection_date="18-Apr-2019"
+                     /collected_by="Zhongshan Liu"
+     gene            <1..>693
+                     /gene="COI"
+     CDS             <1..>693
+                     /gene="COI"
+                     /codon_start=3
+                     /transl_table=5
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="QGK85656.1"
+                     /translation="NHKDIGTLYFIFGIWAGMVGTSLSLLIRAELGTPGSLIGDDQIY
+                     NTIVTAHAFIMIFFMVMPIMIGGFGNWLVPLMLGAPDMAFPRMNNMSFWLLPPSLTLL
+                     ISSSIVENGAGTGWTVYPPLSSNIAHGGSSVDLAIFSLHLAGISSILGAINFITTIIN
+                     MRLNNLSFDQMPLFVWAVGITAFLLLLSLPVLAGAITMLLTDRNLNTSFFDPAGGGDP
+                     ILYQHLFWFFGH"
+ORIGIN      
+        1 ccaatcataa agatattgga acattatatt ttatttttgg aatttgagct ggaatagttg
+       61 gaacttcatt aagattatta attcgagctg aattaggaac tccaggatct ttaattggag
+      121 atgatcaaat ttataatact attgtaacag cacatgcttt tattataatt ttctttatag
+      181 taatacctat tataatcgga ggatttggaa attgacttgt cccattaata ttaggagccc
+      241 cagatatagc tttcccacga ataaataata taagtttttg attattacca ccttctttaa
+      301 ctttattaat ttcaagaaga attgtagaaa atggagcagg aactggatga acagtttacc
+      361 ccccactctc ctctaatatt gcccacggtg gaagatctgt agatttagct attttttctt
+      421 tacatttagc tggaatttct tctattttag gagctattaa ttttattact actattatta
+      481 atatacgatt aaataattta tcatttgatc aaataccttt atttgtttga gctgtaggaa
+      541 ttactgcttt tttattatta ttatcactac ctgttttagc aggagctatt actatattac
+      601 ttacagaccg aaatttaaat acatcattct ttgatccagc tggaggaggt gatcctattc
+      661 tttatcaaca tttattttga ttttttggac atc
+//
+LOCUS       MK860945                 693 bp    DNA     linear   INV 23-NOV-2019
+DEFINITION  Spodoptera exigua isolate MA-3 cytochrome oxidase subunit 1 (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   MK860945
+VERSION     MK860945.1
+KEYWORDS    .
+SOURCE      mitochondrion Spodoptera exigua (beet armyworm)
+  ORGANISM  Spodoptera exigua
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Lepidoptera; Glossata;
+            Ditrysia; Noctuoidea; Noctuidae; Amphipyrinae; Spodoptera.
+REFERENCE   1  (bases 1 to 693)
+  AUTHORS   Deng,Z. and Liu,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2019) Plant Quarantine Laboratory of Technical
+            Center, Kunming Customs District, No. 359 Guangfu Road, Kunming,
+            Yunnan 650228, P.R. China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..693
+                     /organism="Spodoptera exigua"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MA-3"
+                     /db_xref="taxon:7107"
+                     /country="China: Mangshi, Yunnan"
+                     /collection_date="18-Apr-2019"
+                     /collected_by="Zhongshan Liu"
+     gene            <1..>693
+                     /gene="COI"
+     CDS             <1..>693
+                     /gene="COI"
+                     /codon_start=3
+                     /transl_table=5
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="QGK85657.1"
+                     /translation="NHKDIGTLYFIFGIWAGMVGTSLSLLIRAELGTPGSLIGDDQIY
+                     NTIVTAHAFIMIFFMVMPIMIGGFGNWLVPLMLGAPDMAFPRMNNMSFWLLPPSLTLL
+                     ISSSIVENGAGTGWTVYPPLSSNIAHGGSSVDLAIFSLHLAGISSILGAINFITTIIN
+                     MRLNNLSFDQMPLFVWAVGITAFLLLLSLPVLAGAITMLLTDRNLNTSFFDPAGGGDP
+                     ILYQHLFWFFGH"
+ORIGIN      
+        1 ccaatcataa agatattgga acattatatt ttatttttgg aatttgagct ggaatagttg
+       61 gaacttcatt aagattatta attcgagctg aattaggaac tccaggatct ttaattggag
+      121 atgatcaaat ttataatact attgtaacag cacatgcttt tattataatt ttctttatag
+      181 taatacctat tataatcgga ggatttggaa attgacttgt cccattaata ttaggagccc
+      241 cagatatagc tttcccacga ataaataata taagtttttg attattacca ccttctttaa
+      301 ctttattaat ttcaagaaga attgtagaaa atggagcagg aactggatga acagtttacc
+      361 ccccactctc ctctaatatt gcccacggtg gaagatctgt agatttagct attttttctt
+      421 tacatttagc tggaatttct tctattttag gagctattaa ttttattact actattatta
+      481 atatacgatt aaataattta tcatttgatc aaataccttt atttgtttga gctgtaggaa
+      541 ttactgcttt tttattatta ttatcactac ctgttttagc aggagctatt actatattac
+      601 ttacagaccg aaatttaaat acatcattct ttgatccagc tggaggaggt gatcctattc
+      661 tttatcaaca tttattttga ttttttggac atc
+//
+LOCUS       MK860946                 691 bp    DNA     linear   INV 23-NOV-2019
+DEFINITION  Spodoptera cilium isolate MA-6 cytochrome oxidase subunit 1 (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   MK860946
+VERSION     MK860946.1
+KEYWORDS    .
+SOURCE      mitochondrion Spodoptera cilium
+  ORGANISM  Spodoptera cilium
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Lepidoptera; Glossata;
+            Ditrysia; Noctuoidea; Noctuidae; Amphipyrinae; Spodoptera.
+REFERENCE   1  (bases 1 to 691)
+  AUTHORS   Deng,Z. and Liu,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2019) Plant Quarantine Laboratory of Technical
+            Center, Kunming Customs District, No. 359 Guangfu Road, Kunming,
+            Yunnan 650228, P.R. China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..691
+                     /organism="Spodoptera cilium"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MA-6"
+                     /db_xref="taxon:880113"
+                     /country="China: Mangshi, Yunnan"
+                     /collection_date="18-Apr-2019"
+                     /collected_by="Zhongshan Liu"
+     gene            <1..>691
+                     /gene="COI"
+     CDS             <1..>691
+                     /gene="COI"
+                     /codon_start=3
+                     /transl_table=5
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="QGK85658.1"
+                     /translation="NHKDIGTLYFIFGIWAGMVGTSLSLLIRAELGTPGSLIGDDQIY
+                     NTIVTAHAFIMIFFMVMPIMIGGFGNWLVPLMLGAPDMAFPRMNNMSFWLLPPSLTLL
+                     ISSSIVENGAGTGWTVYPPLSSNIAHGGSSVDLAIFSLHLAGISSILGAINFITTIIN
+                     MRLNNLSFDQMPLFIWAVGITAFLLLLSLPVLAGAITMLLTDRNLNTSFFDPAGGGDP
+                     ILYQHLFWFFG"
+ORIGIN      
+        1 ccaatcataa agatattgga acattatatt ttatttttgg aatttgagct ggaatagtcg
+       61 gaacttcttt aagtttatta attcgagctg aattaggaac tccaggatct ttaattggag
+      121 atgatcaaat ttataatact attgtaacag ctcatgcttt tattataatt ttttttatag
+      181 ttatacctat tataattgga ggatttggta attgacttgt tcctttaata ttaggagccc
+      241 cagatatagc tttcccccgt ataaataata taagtttttg acttttacct ccttctttaa
+      301 cattattaat ttcaagtaga attgtagaaa atggagcagg aactggatga acagtttacc
+      361 cccccctctc ctctaatatt gctcatggtg gaagttctgt agatttagct attttttctt
+      421 tacatttagc tggaatttca tctattttag gagctattaa ttttattact actattatta
+      481 atatacgatt aaataattta tcatttgatc aaataccatt atttatttga gctgttggaa
+      541 ttactgcatt tttattatta ttatctttac ctgttttagc tggagctatt actatattac
+      601 ttacagatcg aaatttaaat acatcttttt tcgatcctgc gggaggaggt gatcccattc
+      661 tttatcaaca tttattttga ttttttggac a
+//
+LOCUS       MK860947                 681 bp    DNA     linear   INV 23-NOV-2019
+DEFINITION  Peridroma saucia isolate TN-1 cytochrome oxidase subunit 1 (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   MK860947
+VERSION     MK860947.1
+KEYWORDS    .
+SOURCE      mitochondrion Peridroma saucia (pearly underwing)
+  ORGANISM  Peridroma saucia
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Lepidoptera; Glossata;
+            Ditrysia; Noctuoidea; Noctuidae; Noctuinae; Noctuini; Peridroma.
+REFERENCE   1  (bases 1 to 681)
+  AUTHORS   Deng,Z. and Liu,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2019) Plant Quarantine Laboratory of Technical
+            Center, Kunming Customs District, No. 359 Guangfu Road, Kunming,
+            Yunnan 650228, P.R. China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..681
+                     /organism="Peridroma saucia"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TN-1"
+                     /db_xref="taxon:244290"
+                     /country="China: Tengchong, Yunnan"
+                     /collection_date="18-Apr-2019"
+                     /collected_by="Zhongshan Liu"
+     gene            <1..>681
+                     /gene="COI"
+     CDS             <1..>681
+                     /gene="COI"
+                     /codon_start=3
+                     /transl_table=5
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="QGK85659.1"
+                     /translation="DIGTLYFIFGIWAGMVGTSLSLLIRAELGNPGSLIGDDQIYNTI
+                     VTAHAFIMIFFMVMPIMIGGFGNWLVPLMLGAPDMAFPRMNNMSFWLLPPSLTLLISS
+                     SIVENGAGTGWTVYPPLSSNIAHGGSSVDLAIFSLHLAGISSILGAINFITTIINMRL
+                     NSLSFDQMPLFIWAVGITAFLLLLSLPVLAGAITMLLTDRNLNTSFFDPAGGGDPILY
+                     QHLFWFFG"
+ORIGIN      
+        1 aagatattgg aacattatat tttatttttg gtatttgagc tggaatagtg ggaacttctt
+       61 taagattatt aattcgagct gaattaggta acccagggtc tttaattgga gacgatcaaa
+      121 tttataatac tattgtaaca gcacatgctt ttattataat tttttttata gttataccta
+      181 ttataattgg aggatttggt aattgattag tacctttaat actaggagcc ccagatatag
+      241 cattcccacg aataaataat ataagttttt gacttcttcc cccctcatta acattattaa
+      301 tttcaagaag aattgtggaa aatggagcag gaacaggatg aacagtttat cccccacttt
+      361 catcaaatat tgctcatgga ggaagatcag tagatttagc tattttttca ttacatttag
+      421 ctggtatttc ttctatttta ggagctatta atttcattac aacaattatt aatatacgat
+      481 taaatagtct atcatttgat caaatacctt tatttatttg agctgtagga attactgcat
+      541 ttttattatt attatcttta ccagttttag caggagctat tacaatgctt ttaacagatc
+      601 gaaatttaaa tacatctttt tttgatccag caggaggtgg agatcctatt ctataccaac
+      661 atttattttg attttttgga c
+//
+LOCUS       MK860948                 681 bp    DNA     linear   INV 23-NOV-2019
+DEFINITION  Peridroma saucia isolate TN-2 cytochrome oxidase subunit 1 (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   MK860948
+VERSION     MK860948.1
+KEYWORDS    .
+SOURCE      mitochondrion Peridroma saucia (pearly underwing)
+  ORGANISM  Peridroma saucia
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Lepidoptera; Glossata;
+            Ditrysia; Noctuoidea; Noctuidae; Noctuinae; Noctuini; Peridroma.
+REFERENCE   1  (bases 1 to 681)
+  AUTHORS   Deng,Z. and Liu,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2019) Plant Quarantine Laboratory of Technical
+            Center, Kunming Customs District, No. 359 Guangfu Road, Kunming,
+            Yunnan 650228, P.R. China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..681
+                     /organism="Peridroma saucia"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TN-2"
+                     /db_xref="taxon:244290"
+                     /country="China: Tengchong, Yunnan"
+                     /collection_date="18-Apr-2019"
+                     /collected_by="Zhongshan Liu"
+     gene            <1..>681
+                     /gene="COI"
+     CDS             <1..>681
+                     /gene="COI"
+                     /codon_start=3
+                     /transl_table=5
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="QGK85660.1"
+                     /translation="DIGTLYFIFGIWAGMVGTSLSLLIRAELGNPGSLIGDDQIYNTI
+                     VTAHAFIMIFFMVMPIMIGGFGNWLVPLMLGAPDMAFPRMNNMSFWLLPPSLTLLISS
+                     SIVENGAGTGWTVYPPLSSNIAHGGSSVDLAIFSLHLAGISSILGAINFITTIINMRL
+                     NSLSFDQMPLFIWAVGITAFLLLLSLPVLAGAITMLLTDRNLNTSFFDPAGGGDPILY
+                     QHLFWFFG"
+ORIGIN      
+        1 aagatattgg aacattatat tttatttttg gtatttgagc tggaatagtg ggaacttctt
+       61 taagattatt aattcgagct gaattaggta acccagggtc tttaattgga gacgatcaaa
+      121 tttataatac tattgtaaca gcacatgctt ttattataat tttttttata gttataccta
+      181 ttataattgg aggatttggt aattgattag tacctttaat actaggagcc ccagatatag
+      241 cattcccacg aataaataat ataagttttt gacttcttcc cccctcatta acattattaa
+      301 tttcaagaag aattgtggaa aatggagcag gaacaggatg aacagtttat cccccacttt
+      361 catcaaatat tgctcatgga ggaagatcag tagatttagc tattttttca ttacatttag
+      421 ctggtatttc ttctatttta ggagctatta atttcattac aacaattatt aatatacgat
+      481 taaatagtct atcatttgat caaatacctt tatttatttg agctgtagga attactgcat
+      541 ttttattatt attatcttta ccagttttag caggagctat tacaatgctt ttaacagatc
+      601 gaaatttaaa tacatctttt tttgatccag caggaggtgg agatcctatt ctataccaac
+      661 atttattttg attttttgga c
+//
+LOCUS       MK860949                 679 bp    DNA     linear   INV 23-NOV-2019
+DEFINITION  Mythimna loreyi isolate TN-3 cytochrome oxidase subunit 1 (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   MK860949
+VERSION     MK860949.1
+KEYWORDS    .
+SOURCE      mitochondrion Mythimna loreyi
+  ORGANISM  Mythimna loreyi
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Lepidoptera; Glossata;
+            Ditrysia; Noctuoidea; Noctuidae; Hadeninae; Mythimna.
+REFERENCE   1  (bases 1 to 679)
+  AUTHORS   Deng,Z. and Liu,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2019) Plant Quarantine Laboratory of Technical
+            Center, Kunming Customs District, No. 359 Guangfu Road, Kunming,
+            Yunnan 650228, P.R. China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..679
+                     /organism="Mythimna loreyi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TN-3"
+                     /db_xref="taxon:667449"
+                     /country="China: Tengchong, Yunnan"
+                     /collection_date="18-Apr-2019"
+                     /collected_by="Zhongshan Liu"
+     gene            <1..>679
+                     /gene="COI"
+     CDS             <1..>679
+                     /gene="COI"
+                     /codon_start=3
+                     /transl_table=5
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="QGK85661.1"
+                     /translation="DIGTLYFIFGIWAGMVGTSLSLLIRAELGTPGSLIGDDQIYNTI
+                     VTAHAFIMIFFMVMPIMIGGFGNWLVPLMLGAPDMAFPRMNNMSFWLLPPSLTLLISS
+                     SIVENGAGTGWTVYPPLSSNIAHGGSSVDLAIFSLHLAGISSILGAINFITTIINMRL
+                     NSLSFDQMPLFIWAVGITAFLLLLSLPVLAGAITMLLTDRNLNTSFFDPAGGGDPILY
+                     QHLFWFFG"
+ORIGIN      
+        1 aagatattgg aacattatat tttatttttg gaatttgagc tggtatagtt ggaacttctt
+       61 taagattatt aattcgagct gaattaggaa cccctggatc tttaattgga gatgaccaaa
+      121 tttataatac tatcgtaaca gctcatgctt ttattataat tttttttata gttataccta
+      181 ttataattgg aggatttggt aattgacttg ttcctttaat attaggagct cctgatatgg
+      241 cattccctcg aataaataat ataagtttct gactactccc cccctcatta actttattaa
+      301 tttcaagtag aattgtagaa aatggagcag gaactggatg aacagtttat cccccccttt
+      361 catctaatat tgctcatggt ggtagttctg tagatttagc tattttttct cttcatcttg
+      421 ctggtatttc ttctatttta ggagctatta attttattac aacaattatt aatatacgac
+      481 taaatagttt atcttttgat caaatacctt tatttatttg agctgtagga attactgcat
+      541 ttttattatt actatcttta cctgtattag ctggagctat tactatactt ttaacagatc
+      601 gaaatcttaa tacatctttt tttgaccccg ctggtggagg agatccaatt ctataccaac
+      661 atttattttg attttttgg
+//
+LOCUS       MK860950                 679 bp    DNA     linear   INV 23-NOV-2019
+DEFINITION  Mythimna loreyi isolate TN-4 cytochrome oxidase subunit 1 (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   MK860950
+VERSION     MK860950.1
+KEYWORDS    .
+SOURCE      mitochondrion Mythimna loreyi
+  ORGANISM  Mythimna loreyi
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Lepidoptera; Glossata;
+            Ditrysia; Noctuoidea; Noctuidae; Hadeninae; Mythimna.
+REFERENCE   1  (bases 1 to 679)
+  AUTHORS   Deng,Z. and Liu,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2019) Plant Quarantine Laboratory of Technical
+            Center, Kunming Customs District, No. 359 Guangfu Road, Kunming,
+            Yunnan 650228, P.R. China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..679
+                     /organism="Mythimna loreyi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TN-4"
+                     /db_xref="taxon:667449"
+                     /country="China: Tengchong, Yunnan"
+                     /collection_date="18-Apr-2019"
+                     /collected_by="Zhongshan Liu"
+     gene            <1..>679
+                     /gene="COI"
+     CDS             <1..>679
+                     /gene="COI"
+                     /codon_start=3
+                     /transl_table=5
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="QGK85662.1"
+                     /translation="DIGTLYFIFGIWAGMVGTSLSLLIRAELGTPGSLIGDDQIYNTI
+                     VTAHAFIMIFFMVMPIMIGGFGNWLVPLMLGAPDMAFPRMNNMSFWLLPPSLTLLISS
+                     SIVENGAGTGWTVYPPLSSNIAHGGSSVDLAIFSLHLAGISSILGAINFITTIINMRL
+                     NSLSFDQMPLFIWAVGITAFLLLLSLPVLAGAITMLLTDRNLNTSFFDPAGGGDPILY
+                     QHLFWFFG"
+ORIGIN      
+        1 aagatattgg aacattatat tttatttttg gaatttgagc tggtatagtt ggaacttctt
+       61 taagattatt aattcgagct gaattaggaa cccctggatc tttaattgga gatgaccaaa
+      121 tttataatac tatcgtaaca gctcatgctt ttattataat tttttttata gttataccta
+      181 tcataattgg aggatttggt aattgacttg ttcctttaat attaggagct cctgatatgg
+      241 cattccctcg aataaataat ataagtttct gactactccc cccctcatta actttattaa
+      301 tttcaagtag aattgtagaa aatggagcag gaactggatg aacagtttat cccccccttt
+      361 catctaatat tgctcatggt ggtagttctg tagatttagc tattttttct cttcatcttg
+      421 ctggtatttc ttctatttta ggagctatta attttattac aacaattatt aatatacgac
+      481 taaatagttt atcttttgat caaatacctt tatttatttg agctgtagga attactgcat
+      541 ttttattatt actatcttta cctgtattag ctggagctat tactatactt ttaacagatc
+      601 gaaatcttaa tacatctttt tttgaccccg ctggtggagg agatccaatt ctataccaac
+      661 atttattttg attttttgg
+//
+LOCUS       MK860951                 679 bp    DNA     linear   INV 23-NOV-2019
+DEFINITION  Mythimna loreyi isolate TN-5 cytochrome oxidase subunit 1 (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   MK860951
+VERSION     MK860951.1
+KEYWORDS    .
+SOURCE      mitochondrion Mythimna loreyi
+  ORGANISM  Mythimna loreyi
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Lepidoptera; Glossata;
+            Ditrysia; Noctuoidea; Noctuidae; Hadeninae; Mythimna.
+REFERENCE   1  (bases 1 to 679)
+  AUTHORS   Deng,Z. and Liu,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2019) Plant Quarantine Laboratory of Technical
+            Center, Kunming Customs District, No. 359 Guangfu Road, Kunming,
+            Yunnan 650228, P.R. China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..679
+                     /organism="Mythimna loreyi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TN-5"
+                     /db_xref="taxon:667449"
+                     /country="China: Tengchong, Yunnan"
+                     /collection_date="18-Apr-2019"
+                     /collected_by="Zhongshan Liu"
+     gene            <1..>679
+                     /gene="COI"
+     CDS             <1..>679
+                     /gene="COI"
+                     /codon_start=3
+                     /transl_table=5
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="QGK85663.1"
+                     /translation="DIGTLYFIFGIWAGMVGTSLSLLIRAELGTPGSLIGDDQIYNTI
+                     VTAHAFIMIFFMVMPIMIGGFGNWLVPLMLGAPDMAFPRMNNMSFWLLPPSLTLLISS
+                     SIVENGAGTGWTVYPPLSSNIAHGGSSVDLAIFSLHLAGISSILGAINFITTIINMRL
+                     NSLSFDQMPLFIWAVGITAFLLLLSLPVLAGAITMLLTDRNLNTSFFDPAGGGDPILY
+                     QHLFWFFG"
+ORIGIN      
+        1 aagatattgg aacattatat tttatttttg gaatttgagc tggtatagtt ggaacttctt
+       61 taagattatt aattcgagct gaattaggaa cccctggatc tttaattgga gatgaccaaa
+      121 tttataatac tatcgtaaca gctcatgctt ttattataat tttttttata gttataccta
+      181 ttataattgg aggatttggt aattgacttg ttcctttaat attaggagct cctgatatgg
+      241 cattccctcg aataaataat ataagtttct gactactccc cccctcatta actttattaa
+      301 tttcaagtag aattgtagaa aatggagcag gaactggatg aacagtttat cccccccttt
+      361 catctaatat tgctcatggt ggtagttctg tagatttagc tattttttct cttcatcttg
+      421 ctggtatttc ttctatttta ggagctatta attttattac aacaattatt aatatacgac
+      481 taaatagttt atcttttgat caaatacctt tatttatttg agctgtagga attactgcat
+      541 ttttattatt actatcttta cctgtattag ctggagctat tactatactt ttaacagatc
+      601 gaaatcttaa tacatctttt tttgaccccg ctggtggagg agatccaatt ctataccaac
+      661 atttattttg attttttgg
+//
+LOCUS       MK860952                 679 bp    DNA     linear   INV 23-NOV-2019
+DEFINITION  Mythimna loreyi isolate TN-6 cytochrome oxidase subunit 1 (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   MK860952
+VERSION     MK860952.1
+KEYWORDS    .
+SOURCE      mitochondrion Mythimna loreyi
+  ORGANISM  Mythimna loreyi
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Lepidoptera; Glossata;
+            Ditrysia; Noctuoidea; Noctuidae; Hadeninae; Mythimna.
+REFERENCE   1  (bases 1 to 679)
+  AUTHORS   Deng,Z. and Liu,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2019) Plant Quarantine Laboratory of Technical
+            Center, Kunming Customs District, No. 359 Guangfu Road, Kunming,
+            Yunnan 650228, P.R. China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..679
+                     /organism="Mythimna loreyi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TN-6"
+                     /db_xref="taxon:667449"
+                     /country="China: Tengchong, Yunnan"
+                     /collection_date="18-Apr-2019"
+                     /collected_by="Zhongshan Liu"
+     gene            <1..>679
+                     /gene="COI"
+     CDS             <1..>679
+                     /gene="COI"
+                     /codon_start=3
+                     /transl_table=5
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="QGK85664.1"
+                     /translation="DIGTLYFIFGIWAGMVGTSLSLLIRAELGTPGSLIGDDQIYNTI
+                     VTAHAFIMIFFMVMPIMIGGFGNWLVPLMLGAPDMAFPRMNNMSFWLLPPSLTLLISS
+                     SIVENGAGTGWTVYPPLSSNIAHGGSSVDLAIFSLHLAGISSILGAINFITTIINMRL
+                     NSLSFDQMPLFIWAVGITAFLLLLSLPVLAGAITMLLTDRNLNTSFFDPAGGGDPILY
+                     QHLFWFFG"
+ORIGIN      
+        1 aagatattgg aacattatat tttatttttg gaatttgagc tggtatagtt ggaacttctt
+       61 taagattatt aattcgagct gaattaggaa cccctggatc tttaattgga gatgaccaaa
+      121 tttataatac tatcgtaaca gctcatgctt ttattataat tttttttata gttataccta
+      181 ttataattgg aggatttggt aattgacttg ttcctttaat attaggagct cctgatatgg
+      241 cattccctcg aataaataat ataagtttct gactactccc cccctcatta actttattaa
+      301 tttcaagtag aattgtagaa aatggagcag gaactggatg aacagtttat cccccccttt
+      361 catctaatat tgctcatggt ggtagttctg tagatttagc tattttttct cttcatcttg
+      421 ctggtatttc ttctatttta ggagctatta attttattac aacaattatt aatatacgac
+      481 taaatagttt atcttttgat caaatacctt tatttatttg agctgtagga attactgcat
+      541 ttttattatt actatcttta cctgtattag ctggagctat tactatactt ttaacagatc
+      601 gaaatcttaa tacatctttt tttgaccccg ctggtggagg agatccaatt ctataccaac
+      661 atttattttg attttttgg
+//
+
